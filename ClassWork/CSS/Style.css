@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    background-color: green;
+    
+}
+h2{
+    color: blue;
+    background-color: red;
+}
+p{
+    color: chartreuse;
+    font-size: 30px;
+    background-color: gray;
+}
+button{
+    color: blue;
+    background-color: cyan;
+}
