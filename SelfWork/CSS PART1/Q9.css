@@ -1,0 +1,21 @@
+/* desendent  Selector
+002
+*/
+
+div p{
+    background-color: black;
+}
+
+/* class Selector
+010
+*/
+.para{
+    background-color: blue;
+}
+
+/* element Selector
+001
+*/
+p{
+    background-color: greenyellow;
+}

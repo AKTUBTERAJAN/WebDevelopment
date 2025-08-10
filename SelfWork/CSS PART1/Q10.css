@@ -1,0 +1,20 @@
+/*  Selector
+021
+*/
+
+div.greetDiv{
+    color: green;
+}
+
+/*  Selector 
+021
+*/
+.greetDiv p.greet{
+    color: blue;
+}
+/*  Selector
+020
+*/
+.greetDiv .greet{
+    color: red;
+}

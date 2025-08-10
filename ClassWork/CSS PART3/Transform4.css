@@ -1,0 +1,40 @@
+section{
+    margin-top: 100px;
+}
+
+div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+div:nth-of-type(2n){
+    background-color: yellow;
+}
+
+div:nth-of-type(3n){
+    background-color: rgb(255, 204, 0);
+}
+
+#two,#four{
+    transform: rotate(45deg);
+}
+
+#one,#three{
+    transform: skew(30deg);
+}
+
+#five{
+    transform: rotate(30deg) translate(150px);
+}
+
+#seven,#nine,#ten{
+    transform: rotate(-45deg);
+}
+
+#six,#eight{
+    transform: skew(-30deg);
+}

@@ -1,0 +1,23 @@
+/*h2{
+    display: inline;
+    background-color: palevioletred;
+}
+span{
+    display: block;
+    background-color: greenyellow;
+}
+    */
+span{
+    
+    border: 2px solid black;
+    height: 100px;
+    width: 20px;
+    padding: 50px;
+}
+div{
+    border: 2px solid black;
+    height: 100px;
+    width: 20px;
+    padding: 50px;
+
+}

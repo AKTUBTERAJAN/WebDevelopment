@@ -1,0 +1,41 @@
+/*id Selector*/
+#mainTopic{
+    color: blue;
+}
+
+/* Universal Seloctor*/
+*{
+    text-align: center;
+}
+/* font style*/
+h1{
+    font-family: Georgia;
+}
+
+/*element selector*/
+p{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+div{
+    background-color: purple;
+    color: azure;
+}
+/* hover*/
+button:hover{
+    background-color: yellow;
+    color: blue;
+}
+/*Class Selector*/
+.new{
+    color: yellow;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+#yes:checked+label{
+    color: darkgreen;
+}

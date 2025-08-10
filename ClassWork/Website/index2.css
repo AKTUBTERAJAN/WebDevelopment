@@ -1,0 +1,10 @@
+div{
+    background-color: yellow;
+    color: brown;
+}
+p{
+    background-color: red;
+}
+button :hover{
+    background-color: red;
+}

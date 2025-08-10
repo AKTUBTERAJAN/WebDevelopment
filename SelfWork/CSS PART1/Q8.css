@@ -1,0 +1,16 @@
+/* element Selector*/
+h1{
+    color: pink;
+}
+
+/* id Selector*/
+#greet{
+    color: yellow;
+}
+
+/* class Selector*/
+.myclass{
+    color: brown;
+}
+
+
